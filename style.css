@@ -1,0 +1,22 @@
+#heading{
+    color: red;
+    background-color: purple;
+}
+
+#a1, #a2, #a3, #a4, #a5{
+  background-color: purple;
+  color: yellow;
+  font-size: larger;
+  border-radius: 25px;  
+  width: 400px;
+  
+
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+
+
